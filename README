@@ -1,0 +1,12 @@
+
+= no se por que no se pude ver la tarea solo haciendo click sobre el html. sale un error de que algunos documentos fueron bloqueados por cors policy
+(ya que no esta hosteada)
+
+- asi que para correr la tarea recomiendo usar php storm y abrirla como un nuevo proyecto. luego desde php storm abrirla con chrome o firefox
+(ya que el programa lo hostea)
+
+-tambien pueden ver el funcionamiento en
+
+https://anakena.dcc.uchile.cl/~ddlapuen/terreno/terreno.html
+
+se recomienda tener un mouse para hacer zoom y un-zoom con el scroll.
